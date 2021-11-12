@@ -1,1 +1,1 @@
-# QMUL-OpenLogo: Open Logo Detection Challenge
+# WebLogo-2M
